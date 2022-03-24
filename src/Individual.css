@@ -1,0 +1,220 @@
+.contain {
+  width: auto;
+  height: 900px;
+  margin: auto;
+  background: #ffffff 0% 0% no-repeat padding-box;
+  opacity: 1;
+  display: flex;
+  justify-items: center;
+  align-items: center;
+  justify-content: center;
+}
+
+.inside {
+  width: 1053px;
+  height: 786px;
+  background: #fbf8fd 0% 0% no-repeat padding-box;
+  box-shadow: 0px 2px 3px #000000;
+  opacity: 1;
+  justify-content: center;
+  justify-items: center;
+  align-items: center;
+  text-align: center;
+}
+
+.wel {
+  font: normal normal normal 36px/48px Roboto;
+  letter-spacing: 0px;
+  color: #000000;
+  opacity: 1;
+}
+
+.flex-7 {
+  width: 450px;
+  height: 35px;
+  background: #e4e4e4 0% 0% no-repeat padding-box;
+  border-radius: 8px;
+  opacity: 1;
+  display: flex;
+  margin: auto;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 50px;
+}
+
+.buin {
+  font: 20px Roboto;
+  letter-spacing: 0px;
+  color: #000000;
+  opacity: 1;
+  width: 225px;
+}
+
+.dig {
+  width: 225px;
+  height: 31px;
+  margin: auto;
+  border-radius: 8px;
+  display: flex;
+
+  align-items: center;
+  text-align: center;
+}
+
+#active {
+  background-color: #ffffff;
+}
+
+input {
+  margin-bottom: 25px;
+  width: 430px;
+  height: 40px;
+  background: #ffffff 0% 0% no-repeat padding-box;
+  border: 0.5px solid #e4e4e4;
+  opacity: 1;
+  border-radius: 8px;
+  padding-left: 20px;
+}
+
+.below {
+  width: 430px;
+  height: 19px;
+  margin: auto;
+  text-align: left;
+  font: normal normal normal 14px/21px Roboto;
+  letter-spacing: 0px;
+  color: #000000;
+}
+
+.tands {
+  color: #7c20bf;
+  font-size: small;
+}
+
+.psign {
+  width: 430px;
+  height: 48px;
+  background: #7c20bf 0% 0% no-repeat padding-box;
+  border-radius: 8px;
+  opacity: 1;
+  margin-top: 50px;
+  text-decoration: #ffffff;
+}
+
+.flex-- {
+  display: flex;
+  width: 330px;
+  margin: auto;
+}
+
+@media screen and (min-width: 1200px) {
+  .contain {
+    width: auto;
+    height: 900px;
+    margin: auto;
+    background: #ffffff 0% 0% no-repeat padding-box;
+    opacity: 1;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .inside {
+    width: 653px;
+    height: 786px;
+    background: #fbf8fd 0% 0% no-repeat padding-box;
+    box-shadow: 0px 2px 3px #000000;
+    opacity: 1;
+    margin: auto;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  .wel {
+    font: normal normal normal 36px/48px Roboto;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+  }
+
+  .flex-7 {
+    width: 450px;
+    height: 35px;
+    background: #e4e4e4 0% 0% no-repeat padding-box;
+    border-radius: 8px;
+    opacity: 1;
+    display: flex;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 50px;
+  }
+
+  .buin {
+    font: 20px Roboto;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    width: 225px;
+  }
+
+  .dig {
+    width: 225px;
+    height: 31px;
+    margin: auto;
+    border-radius: 8px;
+    display: flex;
+
+    align-items: center;
+    text-align: center;
+  }
+
+  #active {
+    background-color: #ffffff;
+  }
+
+  input {
+    margin-bottom: 25px;
+    width: 430px;
+    height: 40px;
+    background: #ffffff 0% 0% no-repeat padding-box;
+    border: 0.5px solid #e4e4e4;
+    opacity: 1;
+    border-radius: 8px;
+    padding-left: 20px;
+  }
+
+  .below {
+    width: 430px;
+    height: 19px;
+    margin: auto;
+    text-align: left;
+    font: normal normal normal 14px/21px Roboto;
+    letter-spacing: 0px;
+    color: #000000;
+  }
+
+  .tands {
+    color: #7c20bf;
+    font-size: small;
+  }
+
+  .psign {
+    width: 430px;
+    height: 48px;
+    background: #7c20bf 0% 0% no-repeat padding-box;
+    border-radius: 8px;
+    opacity: 1;
+    margin-top: 50px;
+    text-decoration: #ffffff;
+  }
+
+  .flex-- {
+    display: flex;
+    width: 430px;
+    margin: auto;
+  }
+}
